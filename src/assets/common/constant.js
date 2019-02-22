@@ -1,0 +1,1 @@
+export const myBet_URL = 'https://bloks.io/transaction/';

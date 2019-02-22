@@ -1,0 +1,5 @@
+//设计图
+$mobile_design: 750;
+@function rem($n) {
+  @return $n/($mobile_design/320*20)
+}
